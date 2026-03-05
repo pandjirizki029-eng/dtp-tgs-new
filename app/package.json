@@ -1,0 +1,10 @@
+{
+  "name": "dtp-cloud-project",
+  "version": "1.0.0",
+  "description": "Multi-stage Docker Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {}
+}
